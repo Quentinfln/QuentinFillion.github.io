@@ -1,0 +1,32 @@
+
+/* Header Styles */
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Footer Styles */
+footer {
+    background-color: lightgrey;
+    text-align: left;
+}
+
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.centre {
+    background-color: lightgrey;
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+    margin: 20px;
+}
+
+.centre img {
+    width: 60%; /* Ajustez la taille des images selon vos besoins */
+}
